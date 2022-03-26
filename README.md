@@ -6,5 +6,5 @@
 	<a href="https://figurebed-iseex.oss-cn-hangzhou.aliyuncs.com/202201171141964.png"><img src="https://img.shields.io/badge/公众号-青柠学术-orange?logo=wechat" alt="公众号" /></a>
 </p>
 
-# zotero-if-pro-max
-zotero-if-pro-max
+# Zotero IF Pro Max
+All in One, All in Zotero!
