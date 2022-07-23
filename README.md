@@ -7,4 +7,4 @@
 </p>
 
 # Zotero IF Pro Max
-All in One, All in Zotero!
+All in One, All in Zotero！直击用户痛点，直面用户需求。
